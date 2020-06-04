@@ -9,7 +9,7 @@ name: Inside My Head
 description: Personal Blog of Gaurish K Shaw
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![image](/images/Pic.png)
+avatar: https://raw.githubusercontent.com/gaurishshaw/gaurishshaw.github.io/master/images/Pic.png
 
 #
 # Flags below are optional
